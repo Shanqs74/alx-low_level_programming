@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Empty
+ * main - printf to last digit of value
  * Return: Always 0
  */
 int main(void)
