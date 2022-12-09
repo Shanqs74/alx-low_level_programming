@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * main - print alphabet in lowercase
- * Result: Always 0
-*/
+ * main - prints the alphabet in lowercase
+ *
+ * Return: Always 0
+ */
+
 int main(void)
 {
 	char letter;
